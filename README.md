@@ -7,3 +7,7 @@
 2. ![](https://img.shields.io/badge/kubernetes-v1.17.12-blue)
 
 3. ![](https://img.shields.io/badge/c%2B%2B-11-yellowgreen)
+
+## My contribution
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianshimoyi)](https://github.com/anuraghazra/github-readme-stats)
